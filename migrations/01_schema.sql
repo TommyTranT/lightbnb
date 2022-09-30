@@ -48,3 +48,7 @@ CREATE TABLE property_reviews (
   rating SMALLINT NOT NULL DEFAULT 0,
   message TEXT
 );
+
+https://web.compass.lighthouselabs.ca/be3e44cd-d79a-48e9-af5d-aa8d348299bc
+
+What the heck. is this commiting?
