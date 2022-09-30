@@ -52,3 +52,6 @@ CREATE TABLE property_reviews (
 https://web.compass.lighthouselabs.ca/be3e44cd-d79a-48e9-af5d-aa8d348299bc
 
 What the heck. is this commiting?
+
+
+How is this working
